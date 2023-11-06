@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\bin\Debug\net6.0\ExercicioListaDeTarefas.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\bin\Debug\net6.0\ExercicioListaDeTarefas.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\bin\Debug\net6.0\ExercicioListaDeTarefas.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\bin\Debug\net6.0\ExercicioListaDeTarefas.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\bin\Debug\net6.0\ExercicioListaDeTarefas.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\refint\ExercicioListaDeTarefas.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ExercicioListaDeTarefas.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExercicioListaDeTarefas\ExercicioListaDeTarefas\obj\Debug\net6.0\ref\ExercicioListaDeTarefas.dll
