@@ -22,7 +22,7 @@ namespace ExercicioListaDeTarefas
                         string nome = Console.ReadLine();
                         Console.Write("Descrição:");
                         string descricao = Console.ReadLine();
-                        Console.Write("Data (dd/mm/aaaa):");
+                        Console.Write("Data limite(dd/mm/aaaa):");
                         DateTime data = DateTime.Parse(Console.ReadLine());
                         Lista.Add(new Tarefas(nome, descricao, data));
                         break;
