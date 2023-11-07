@@ -33,7 +33,7 @@ namespace ExercicioListaDeTarefas
         //Exibir tarefas
         public override string ToString()
         {
-            return $"Nome:{Nome}\nDescrição:{Descricao}\nData de Vencimento:{Data.ToString("dd/MM/yyyy")}\nStatus:{Status}";
+            return $"Nome:{Nome}\nDescrição:{Descricao}\nData Limite:{Data.ToString("dd/MM/yyyy")}\nStatus:{Status}";
         }
     }
 }

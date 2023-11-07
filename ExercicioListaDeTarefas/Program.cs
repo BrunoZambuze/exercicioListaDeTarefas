@@ -17,12 +17,12 @@ namespace ExercicioListaDeTarefas
                 switch (resp)
                 {
                     case 1:
-                        Console.WriteLine("---Descrição da Tarefa---");
+                        Console.WriteLine("---Cadastrar Tarefa---");
                         Console.Write("Nome:");
                         string nome = Console.ReadLine();
                         Console.Write("Descrição:");
                         string descricao = Console.ReadLine();
-                        Console.Write("Data limite(dd/mm/aaaa):");
+                        Console.Write("Data limite para realizar tarefa(dd/mm/aaaa):");
                         DateTime data = DateTime.Parse(Console.ReadLine());
                         Lista.Add(new Tarefas(nome, descricao, data));
                         break;
